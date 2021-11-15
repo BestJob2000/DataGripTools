@@ -18,7 +18,6 @@ class DataGripToolsDesignApplicationTests {
 		System.out.println(datasource.getClass());
 		System.out.println(datasource.getConnection());
 		System.out.println("数据库连接");
-
 	}
 
 }
